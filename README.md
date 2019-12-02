@@ -1,2 +1,2 @@
 # DDA-Line-Drawing
-# DDA Algorithm for Drawing lines
+DDA Algorithm for Drawing lines
