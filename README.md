@@ -1,9 +1,13 @@
 # Basics of Computer Graphics
 
-My attempt of learning CG the day before exam :P
+My attempt at learning CG the day before exam :P
+
+made using #Processing.org
 
 includes :-
 
 DDA Line Drawing
 
 Bresenhams Line Drawing
+
+Mid-Point Circle Drawing
