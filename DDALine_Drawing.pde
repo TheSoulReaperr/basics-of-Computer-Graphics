@@ -1,4 +1,3 @@
-
 void setup() {
   size(200,200);
   background(255);
@@ -13,8 +12,8 @@ void dda(int x1,int y1,int x2, int y2) {
   if(abs(dx)>abs(dy)) 
     steps = abs(dx);
   else steps = abs(dy);
-  xc = dx/steps;
-  yc = dy/steps;
+  xc = dx/float(steps);
+  yc = dy/float(steps);
   point(x,y);
   for(int i=0;i<steps;i++) {
     x+=xc;
